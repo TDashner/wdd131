@@ -1,0 +1,40 @@
+.dark {
+    background-color: #333;
+    color: white;
+}
+
+.dark h2{
+    color: rgb(160,212,237);
+    
+}
+
+.content{
+    font-size: 20px;
+    max-width: 600px;
+    border-width: 20px;
+    border-color: black;
+    line-height: 2.5;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+    letter-spacing: normal;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+h2{
+    color: #006EB6;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+p{
+    text-align: left;
+
+}
+
+#picture{
+    width: 150px;
+
+}
