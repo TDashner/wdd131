@@ -1,3 +1,8 @@
+let tasks = [];
+
+function renderTasks(tasks){
+  
+}
 function newTask() {
   // get the list element
     const listElement = document.querySelector("#todoList");
